@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pranabsatyal
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning iOS Development
+- 💞️ I’m looking to collaborate on building an App
+- 📫 How to reach me @ LinkedIn - Pranab Raj Satyal
